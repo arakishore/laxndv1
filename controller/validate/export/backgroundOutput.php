@@ -1,0 +1,9 @@
+PHP Notice:  Undefined index: HTTP_USER_AGENT in /opt/bitnami/apache2/htdocs/content_repo_v2/config/logs/logsCoreFunctions.php on line 63
+PHP Notice:  Undefined index: HTTP_USER_AGENT in /opt/bitnami/apache2/htdocs/content_repo_v2/config/logs/logsCoreFunctions.php on line 65
+PHP Notice:  Undefined index: HTTP_USER_AGENT in /opt/bitnami/apache2/htdocs/content_repo_v2/config/logs/logsCoreFunctions.php on line 67
+PHP Notice:  Undefined index: HTTP_USER_AGENT in /opt/bitnami/apache2/htdocs/content_repo_v2/config/logs/logsCoreFunctions.php on line 69
+PHP Notice:  Undefined index: HTTP_USER_AGENT in /opt/bitnami/apache2/htdocs/content_repo_v2/config/logs/logsCoreFunctions.php on line 71
+PHP Notice:  Undefined index: HTTP_USER_AGENT in /opt/bitnami/apache2/htdocs/content_repo_v2/config/logs/logsCoreFunctions.php on line 73
+PHP Notice:  Undefined index: HTTP_USER_AGENT in /opt/bitnami/apache2/htdocs/content_repo_v2/config/logs/logsCoreFunctions.php on line 75
+PHP Notice:  Undefined index: REQUEST_URI in /opt/bitnami/apache2/htdocs/content_repo_v2/config/logs/logsCoreFunctions.php on line 50
+PHP Notice:  Undefined index: QUERY_STRING in /opt/bitnami/apache2/htdocs/content_repo_v2/config/logs/logsCoreFunctions.php on line 54
